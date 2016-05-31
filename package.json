@@ -1,0 +1,19 @@
+{
+  "name": "is-pali",
+  "version": "1.0.0",
+  "description": "Determines if a string or number is a palindrome.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkuhar/is-pali.git"
+  },
+  "author": "Alex Kukharets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alkuhar/is-pali/issues"
+  },
+  "homepage": "https://github.com/alkuhar/is-palie#readme"
+}
