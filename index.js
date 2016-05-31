@@ -6,7 +6,7 @@
 *
 */
 
-function palindrome(str) {
+function isPalindrome(str) {
   return str.toString().toLowerCase().split(',')
   .join('').split(' ').join('').split('!')
   .join('') === str.toString().toLowerCase().split(',')
@@ -14,4 +14,4 @@ function palindrome(str) {
   .join('').split('').reverse().join('') ? true : false;
 }
 
-module.exports = palindrome;
+module.exports = isPalindrome;
