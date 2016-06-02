@@ -6,7 +6,7 @@ Installation
 ------------
 
 ```bash
-npm install is-pali
+npm install --save is-pali
 ```
 
 Usage

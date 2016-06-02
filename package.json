@@ -1,6 +1,6 @@
 {
   "name": "is-pali",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Determines if a string or number is a palindrome.",
   "main": "index.js",
   "scripts": {
